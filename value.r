@@ -38,6 +38,8 @@ who.country  <- read.csv("/Users/rpietro/Google Drive/R/nonpublicdata_publicatio
 icbsystem <- read.csv("/Users/rpietro/Google Drive/R/nonpublicdata_publications/icb1v10_system.csv")
 icbactor <- read.csv("/Users/rpietro/Google Drive/R/nonpublicdata_publications/icb2v10_actor.csv")
 
+#although i didn't extract a specific dataset, UNESCO has a wonderful education, literacy and sciences database http://goo.gl/pt1Ty
+
 
 #-------------------------
 #DATA MANAGEMENT
